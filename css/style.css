@@ -426,6 +426,7 @@ p{
 
 .content-below-top-image{
     margin-top: 145px;
+    margin-left: 100px;
 }
 
 .content-below-top-text{
@@ -455,7 +456,7 @@ h4{
 }
 
 .content-middle-h3{
-    margin-right: 975px;
+    margin-left: 0px;
     color: #373737; 
 }
 
@@ -469,7 +470,7 @@ h4{
 }
 
 .content-middle-logo{
-   padding-left: 60px;
+    padding-left: 0px;
    padding-bottom: 30px;
 }
 
@@ -478,11 +479,14 @@ h4{
     padding-right: 20px; 
     float: left;
     margin-top: -220px;
+    width: 28%;
 }
 
 .content-middle-image2{
     margin-right: 130px;
     margin-top: -220px;
+    float: right;
+    width: 28%;
 }
 
 .content-above-bottom{
@@ -517,13 +521,14 @@ h4{
 
 #content-above-bottom-checkmark-bg{
     float: right; 
-    margin-right: 586.9px;
+    margin-right: 472px;
+    width:4%;
 }
 
 #content-above-bottom-checkmark{
     float:right;
-    margin-right: 605px;
-    margin-top: -35px;
+    margin-right: 490px;
+    margin-top: -57px;
 }
 
 .content-bottom{
@@ -560,7 +565,8 @@ h4{
 }
 
 #content-above-bottom-checkmark-bg1{
-    margin-right: -262px;
+    margin-right: -344px;
+    width: 4.5%;
 }
 
 #button-5{
@@ -570,18 +576,19 @@ h4{
 }
 
 #content-above-bottom-checkmark-bg2{
-    margin-right: -258px;
-    margin-top: -55px;   
+    margin-right: -338px;
+    margin-top: -55px;
+    width: 4.5%; 
 }
 
 .content-bottom-logo1{
-    margin-right: -245px;
-    padding-top: 15px;
+    margin-right: -325px;
+    padding-top: 63px;
 }
 
 .content-bottom-logo2{
-    margin-right: -245px;
-    margin-top: -40px;
+    margin-right: -322px;
+    margin-top: -54px;
 }
 
 footer{
@@ -592,7 +599,7 @@ footer{
 #footer-nav-li{
     float: left;
     margin-bottom: 25px;
-    margin-left: -55px;
+    margin-left: 11px;
     letter-spacing: 5px;
     font-weight: bold;
 }
@@ -619,4 +626,3 @@ footer{
 }
 
 }
-
